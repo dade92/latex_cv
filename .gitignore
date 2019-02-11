@@ -1,4 +1,5 @@
-.aux
-.log
-.gz
-.pdf
+*.aux
+*.log
+*.gz
+*.pdf
+*.out
